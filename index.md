@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/SudarshiniTyagi/Sudarshini
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-### Projects and Research
+Projects and Research
 
 #### -- Clustering Based Methods for Self-supervised Classification of Images
 Explored multiple versions of DeepCluster and Invariant Information Clustering. Achieved final accuracy of 85.1% on STL-10 dataset
@@ -17,6 +17,18 @@ Collaborating with Prof. Dennis Shasha and Prof. Manpreet Katari to write a book
 Worked on Generative Adversarial Networks to generate high resolution images from their captions using modified implementation of Stack GANs and Attention based text encoders.
 #### -- Cyberuka: An EEG controlled assistive hand to establish accurate finger control for paralyzed patients
 Classified EEG data into 6 types of hand signals viz. HandStart, FirstDigitTouch, BothStartLoadPhase, LiftOff, Replace and BothReleased. (Recognized in CISCO Ideate challenge as a promising project)
+
+## EXPERIENCE
+#### -- NYU Langone Health | Research Intern                                                                			                     Summer 2019
+Working with Professor Krzysztof Geras on Breast cancer detection using weakly labeled mammogram data.
+#### -- Goldman Sachs | Programming Analyst – NAPA                     							                                       June 2017 – Jul 2018
+Built a big data search engine using Elastic Search and Presto
+#### -- Goldman Sachs | Pre-NAPA Internship                                                                            Jan 2017 – Apr 2017
+Designed & built an unsupervised peer grouping model to classify the clients into various buckets based on their financial profile.
+#### -- Goldman Sachs | Summer Internship                                                                                        Summer 2016
+Built a data pipeline to process data that has been changed using a difference model.
+#### -- Tusker Data Labs | Summer Internship                                                                                     Summer 2015
+Maintained website (Laravel framework) and Built a song classifier for happy and sad songs based on lyrics.
 
 <!-- `markdown
 Syntax highlighted code block
