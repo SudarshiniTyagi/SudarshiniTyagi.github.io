@@ -4,9 +4,21 @@ You can use the [editor on GitHub](https://github.com/SudarshiniTyagi/Sudarshini
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Projects and Research
+
+#### Clustering Based Methods for Self-supervised Classification of Images
+Explored multiple versions of DeepCluster and Invariant Information Clustering. Achieved final accuracy of 85.1% on STL-10 dataset
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+#### Interpretable high-dimensional image classification with attention-guided localization networks
+Used attention to combine information from multiple bounding boxes detected by object detection network to predict image level label in Mammogram images. Increased AUC from 0.91 to 0.93
+#### Case Study Companion to "Statistics is Easy" book
+Collaborating with Prof. Dennis Shasha and Prof. Manpreet Katari to write a book that explains statistical non-parametric methods for biological data analysis using case studies
+#### earning text representations from images for conditional Generative Adversarial Networks
+Worked on Generative Adversarial Networks to generate high resolution images from their captions using modified implementation of Stack GANs and Attention based text encoders.
+#### Cyberuka: An EEG controlled assistive hand to establish accurate finger control for paralyzed patients
+Classified EEG data into 6 types of hand signals viz. HandStart, FirstDigitTouch, BothStartLoadPhase, LiftOff, Replace and BothReleased. (Recognized in CISCO Ideate challenge as a promising project)
 
 ```markdown
 Syntax highlighted code block
