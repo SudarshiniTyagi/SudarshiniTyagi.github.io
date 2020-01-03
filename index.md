@@ -6,19 +6,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Projects and Research
 
-#### Clustering Based Methods for Self-supervised Classification of Images
+#### -- Clustering Based Methods for Self-supervised Classification of Images
 Explored multiple versions of DeepCluster and Invariant Information Clustering. Achieved final accuracy of 85.1% on STL-10 dataset
 
-#### Interpretable high-dimensional image classification with attention-guided localization networks
+#### -- Interpretable high-dimensional image classification with attention-guided localization networks
 Used attention to combine information from multiple bounding boxes detected by object detection network to predict image level label in Mammogram images. Increased AUC from 0.91 to 0.93
-#### Case Study Companion to "Statistics is Easy" book
+#### -- Case Study Companion to "Statistics is Easy" book
 Collaborating with Prof. Dennis Shasha and Prof. Manpreet Katari to write a book that explains statistical non-parametric methods for biological data analysis using case studies
-#### Learning text representations from images for conditional Generative Adversarial Networks
+#### -- Learning text representations from images for conditional Generative Adversarial Networks
 Worked on Generative Adversarial Networks to generate high resolution images from their captions using modified implementation of Stack GANs and Attention based text encoders.
-#### Cyberuka: An EEG controlled assistive hand to establish accurate finger control for paralyzed patients
+#### -- Cyberuka: An EEG controlled assistive hand to establish accurate finger control for paralyzed patients
 Classified EEG data into 6 types of hand signals viz. HandStart, FirstDigitTouch, BothStartLoadPhase, LiftOff, Replace and BothReleased. (Recognized in CISCO Ideate challenge as a promising project)
 
-```markdown
+<!-- `markdown
 Syntax highlighted code block
 
 # Header 1
@@ -33,7 +33,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -44,4 +44,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.  -->
